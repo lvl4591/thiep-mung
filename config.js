@@ -1,6 +1,6 @@
 const nameGirl = 'Vợ Iu';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Happy Valentine's Day';
+const eventName = 'Happy Valentine';
 const titleCard = 'Tặng vợ yêu';
 const contentCard = 'Chúc vợ Valentine tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
